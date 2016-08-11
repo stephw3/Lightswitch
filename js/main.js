@@ -1,6 +1,6 @@
 
 var hello = function(){
-  $(this).toggleClass('on').toogleClass('off');
+  $(this).toggleClass('on').toggleClass('off');
 
   if ($(this).hasClass('on') ) {
     $('.status').text("It's so bright in here");
