@@ -1,11 +1,21 @@
 .light {
     background-color: #FFF;
     color: #222;
+    /*background-image: url(http://sweetclipart.com/multisite/sweetclipart/files/line_burst_sun_pattern_yellow_white.png);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    background-attachment: fixed;*/
 }
 
 .dark {
     background-color: #222;
-    color: #FFF; 
+    color: #FFF;
+    /*background-image: url(http://astronoteen.org/wp-content/uploads/2015/08/346584main_moonimg_01_full.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    background-attachment: fixed;*/
 }
 
 .status {
@@ -64,4 +74,3 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6d6d6', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
     box-shadow: -1px -4px 6px rgba(100,100,100,0.7);
 }
-
